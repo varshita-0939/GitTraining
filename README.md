@@ -1,1 +1,2 @@
 # GitTraining
+Training Session Practice
